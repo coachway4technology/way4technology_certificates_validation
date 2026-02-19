@@ -1,0 +1,2 @@
+# way4technology_certificates_validation
+To validate way4technology certificates
